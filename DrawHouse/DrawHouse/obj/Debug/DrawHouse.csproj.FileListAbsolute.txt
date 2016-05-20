@@ -1,0 +1,8 @@
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\bin\Debug\DrawHouse.exe.config
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\bin\Debug\DrawHouse.exe
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\bin\Debug\DrawHouse.pdb
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\obj\Debug\DrawHouse.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\obj\Debug\DrawHouse.exe
+C:\Users\Иван\Desktop\DrawHouse\DrawHouse\obj\Debug\DrawHouse.pdb
